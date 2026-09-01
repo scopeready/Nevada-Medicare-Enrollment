@@ -245,3 +245,14 @@ p{margin-bottom:1em}.container{max-width:var(--max-width);margin:0 auto;padding:
 }
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
 @media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important}html{scroll-behavior:auto}}
+
+/* ---- D-SNP county pages: ZIP code tables ---- */
+.zip-table-wrap{overflow-x:auto;border:1px solid var(--light-gray);border-radius:var(--radius);background:var(--white);box-shadow:var(--shadow-sm)}
+.zip-table{width:100%;border-collapse:collapse;font-size:.98rem}
+.zip-table th{background:var(--navy);color:var(--white);text-align:left;padding:14px 18px;font-family:var(--font-body);font-weight:700;font-size:.9rem;letter-spacing:.02em}
+.zip-table td{padding:12px 18px;border-top:1px solid var(--light-gray);color:var(--text-secondary)}
+.zip-table tbody tr:nth-child(even){background:var(--off-white)}
+.zip-table td:last-child{font-variant-numeric:tabular-nums;font-weight:600;color:var(--navy);white-space:nowrap}
+a.area-tag{display:block;text-decoration:none;transition:box-shadow .3s,transform .2s,border-color .2s}
+a.area-tag:hover{box-shadow:var(--shadow-md);transform:translateY(-2px);border-color:var(--teal);color:var(--blue)}
+@media(max-width:600px){.zip-table{font-size:.9rem}.zip-table th,.zip-table td{padding:10px 12px}}

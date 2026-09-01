@@ -46,6 +46,7 @@
 
 ## Services
 - Medicare Advantage (Part C) plan comparison
+- Dual Special Needs Plan (D-SNP) guidance for people with both Medicare and Medicaid
 - Medicare Supplement (Medigap) plan comparison — Plan G and Plan N
 - Medicare Part D prescription drug plan comparison
 - Medicare enrollment assistance
@@ -53,6 +54,26 @@
 - IRMAA education and planning
 - Social Security coordination
 - Veterans Medicare guidance (TRICARE, VA benefits)
+
+## Dual Special Needs Plans (D-SNP) — Medicare + Medicaid
+- **Hub page**: https://medicareenrollmentnevada.com/dual-special-needs-plans-nevada.html
+- Nevada operates a **coordination-only D-SNP (CO D-SNP)** program — plans coordinate Medicare and Medicaid rather than fully integrating them (not FIDE-SNP or HIDE-SNP)
+- Dual eligibility categories currently enrolled: Full Benefit Dual Eligible (FBDE), Qualified Medicare Beneficiary (QMB), Qualified Medicare Beneficiary Plus (QMB+); the state has moved to expand to SLMB and SLMB+
+- **January 1, 2026**: Nevada expanded Medicaid managed care beyond Clark and Washoe counties to all 17 counties, moving roughly 75,000 rural residents from fee-for-service into managed care. CareSource and SilverSummit Healthplan were awarded the rural expansion
+- Enrollment: CMS eliminated the quarterly dual/LIS special enrollment period on January 1, 2025. A monthly SEP exists for standalone Part D, and a monthly integrated-care SEP applies only to aligned integrated D-SNPs — which generally does not cover Nevada's coordination-only plans. Nevada duals typically use AEP (Oct 15–Dec 7), MA OEP (Jan 1–Mar 31), or an SEP triggered by a change in Medicaid or Extra Help status
+
+## D-SNP County Guides (11-county service area)
+- **Carson City** — https://medicareenrollmentnevada.com/dual-special-needs-plans-carson-city.html — seat: Carson City; ZIP codes: 89701, 89703, 89706
+- **Churchill County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-churchill-county.html — seat: Fallon; ZIP codes: 89406, 89407, 89496
+- **Douglas County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-douglas-county.html — seat: Minden; ZIP codes: 89410, 89460, 89411, 89413, 89423, 89448, 89449, 89705
+- **Elko County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-elko-county.html — seat: Elko; ZIP codes: 89801, 89802, 89803, 89815, 89822, 89823, 89824, 89825, 89826, 89828, 89830, 89831, 89832, 89833, 89834, 89835, 89883
+- **Esmeralda County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-esmeralda-county.html — seat: Goldfield; ZIP codes: 89013, 89010, 89047
+- **Lander County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-lander-county.html — seat: Battle Mountain; ZIP codes: 89820, 89310
+- **Lincoln County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-lincoln-county.html — seat: Pioche; ZIP codes: 89001, 89008, 89017, 89042, 89043
+- **Lyon County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-lyon-county.html — seat: Yerington; ZIP codes: 89403, 89408, 89428, 89429, 89430, 89444, 89447
+- **Mineral County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-mineral-county.html — seat: Hawthorne; ZIP codes: 89415, 89420, 89422, 89427
+- **Pershing County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-pershing-county.html — seat: Lovelock; ZIP codes: 89419, 89418
+- **Storey County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-storey-county.html — seat: Virginia City; ZIP codes: 89440
 
 ## 2026 Medicare Figures
 - Part B premium: $202.90/month, deductible: $283

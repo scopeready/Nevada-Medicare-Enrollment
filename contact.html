@@ -54,7 +54,7 @@
 <p style="margin-bottom:0"><strong>Serving:</strong> All 17 Nevada Counties</p>
 </div>
 </div>
-<div class="form-card"><h3>Request Your Free Comparison</h3><p class="form-subtext">We'll contact you within 1 business day</p><form action="https://api.web3forms.com/submit" method="POST">
+<div class="form-card"><h3>Request Your Free Comparison</h3><p class="form-subtext">We'll contact you within 1 business day</p><form id="contact" action="https://api.web3forms.com/submit" method="POST">
 <input type="hidden" name="consent_text" value="By checking the consent box and submitting this form, I give ECOS Medicare Solutions and a licensed insurance agent permission to contact me at the phone number and email I provided — including by phone call, text message (SMS), and email, using automated technology such as an autodialer or prerecorded/artificial voice — about Medicare Advantage, Medicare Supplement, Medicare Part D and Dual Special Needs Plan options. I understand consent is not a condition of purchase, that message and data rates may apply, and that I can opt out at any time."><input type="hidden" name="consent_timestamp" class="consent-ts" value="">
 <input type="hidden" name="access_key" value="fc793a1c-1dd6-4a2e-9078-e907c4ab0428">
 <input type="hidden" name="subject" value="New Medicare Lead from Nevada Website">
@@ -131,4 +131,5 @@ document.querySelectorAll('form').forEach(function(fm){
   fm.addEventListener('submit',stamp);
 });
 </script>
+<script src="analytics.js" defer></script>
 </body></html>

@@ -102,6 +102,25 @@
 - Inside the window a current Medigap policyholder may switch to a policy with the same or lesser benefits with no medical underwriting
 - It is a switching right for existing Medigap policyholders; it does not apply to someone moving from Medicare Advantage to Medigap
 
+## Nevada city guides
+- Areas we serve (all 17 counties): https://medicareenrollmentnevada.com/areas-we-serve.html
+- Medicare in Las Vegas (Clark County): https://medicareenrollmentnevada.com/medicare-las-vegas-nv.html
+- Medicare in Henderson (Clark County): https://medicareenrollmentnevada.com/medicare-henderson-nv.html
+- Medicare in North Las Vegas (Clark County): https://medicareenrollmentnevada.com/medicare-north-las-vegas-nv.html
+- Medicare in Reno (Washoe County): https://medicareenrollmentnevada.com/medicare-reno-nv.html
+- Medicare in Sparks (Washoe County): https://medicareenrollmentnevada.com/medicare-sparks-nv.html
+- Medicare in Carson City (Carson City (an independent city)): https://medicareenrollmentnevada.com/medicare-carson-city-nv.html
+- Medicare in Pahrump (Nye County): https://medicareenrollmentnevada.com/medicare-pahrump-nv.html
+- Medicare in Mesquite (Clark County): https://medicareenrollmentnevada.com/medicare-mesquite-nv.html
+- Medicare in Boulder City (Clark County): https://medicareenrollmentnevada.com/medicare-boulder-city-nv.html
+- Medicare in Laughlin (Clark County): https://medicareenrollmentnevada.com/medicare-laughlin-nv.html
+- Medicare in Elko (Elko County): https://medicareenrollmentnevada.com/medicare-elko-nv.html
+- Medicare in Fallon (Churchill County): https://medicareenrollmentnevada.com/medicare-fallon-nv.html
+- Medicare in Fernley (Lyon County): https://medicareenrollmentnevada.com/medicare-fernley-nv.html
+- Medicare in Dayton (Lyon County): https://medicareenrollmentnevada.com/medicare-dayton-nv.html
+- Medicare in Carson Valley (Gardnerville & Minden) (Douglas County): https://medicareenrollmentnevada.com/medicare-carson-valley-nv.html
+- Medicare in Winnemucca (Humboldt County): https://medicareenrollmentnevada.com/medicare-winnemucca-nv.html
+
 ## Policies
 - Privacy Policy: https://medicareenrollmentnevada.com/privacy.html
 - Terms of Use: https://medicareenrollmentnevada.com/terms.html

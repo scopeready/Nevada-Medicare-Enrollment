@@ -62,6 +62,11 @@
 - **January 1, 2026**: Nevada expanded Medicaid managed care beyond Clark and Washoe counties to all 17 counties, moving roughly 75,000 rural residents from fee-for-service into managed care. CareSource and SilverSummit Healthplan were awarded the rural expansion
 - Enrollment: CMS eliminated the quarterly dual/LIS special enrollment period on January 1, 2025. A monthly SEP exists for standalone Part D, and a monthly integrated-care SEP applies only to aligned integrated D-SNPs — which generally does not cover Nevada's coordination-only plans. Nevada duals typically use AEP (Oct 15–Dec 7), MA OEP (Jan 1–Mar 31), or an SEP triggered by a change in Medicaid or Extra Help status
 
+## 2026 plan availability in the 11-county service area
+- Rural Nevada has historically had far fewer Medicare Advantage options than Clark and Washoe counties
+- For 2026 the number of options across this 11-county service area has expanded, making it worth re-comparing
+- Availability is defined county by county and changes each plan year; verify at Medicare.gov or 1-800-MEDICARE
+
 ## D-SNP County Guides (11-county service area)
 - **Carson City** — https://medicareenrollmentnevada.com/dual-special-needs-plans-carson-city.html — seat: Carson City; ZIP codes: 89701, 89703, 89706
 - **Churchill County** — https://medicareenrollmentnevada.com/dual-special-needs-plans-churchill-county.html — seat: Fallon; ZIP codes: 89406, 89407, 89496
@@ -80,3 +85,7 @@
 - Part A deductible: $1,736
 - Part D base premium: $38.99/month, OOP cap: $2,100
 - IRMAA threshold: $109,000 individual / $218,000 joint
+
+## Policies
+- Privacy Policy: https://medicareenrollmentnevada.com/privacy.html
+- Terms of Use: https://medicareenrollmentnevada.com/terms.html

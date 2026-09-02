@@ -72,6 +72,13 @@ Benefits, networks and availability vary by plan and county and change annually.
 
 ---
 
+# 2026 plan availability
+
+Rural Nevada has historically had far fewer Medicare Advantage options than Clark
+and Washoe counties. For 2026 the number of options across this 11-county service area has expanded, which
+combined with the statewide Medicaid managed care transition makes this a year worth re-comparing coverage.
+Availability is defined county by county and changes each plan year.
+
 # County guides — 11-county D-SNP service area
 
 Counties: Carson City, Churchill, Douglas, Elko, Esmeralda, Lander, Lincoln, Lyon, Mineral, Pershing, Storey.
@@ -245,3 +252,7 @@ We do not offer every plan available in your area. Any information we provide is
 in your area. Please contact Medicare.gov or 1-800-MEDICARE (TTY 1-877-486-2048), 24/7, to get information on all
 options. ECOS Medicare Solutions is not affiliated with or endorsed by the U.S. government or the federal Medicare
 program. This is a solicitation of insurance. A licensed agent may contact you.
+
+## Policies
+- Privacy Policy: https://medicareenrollmentnevada.com/privacy.html
+- Terms of Use: https://medicareenrollmentnevada.com/terms.html

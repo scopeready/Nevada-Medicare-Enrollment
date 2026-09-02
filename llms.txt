@@ -86,6 +86,21 @@
 - Part D base premium: $38.99/month, OOP cap: $2,100
 - IRMAA threshold: $109,000 individual / $218,000 joint
 
+## Medicare topic guides (Nevada)
+- 2026 Medicare costs — Part A, B, D and IRMAA: https://medicareenrollmentnevada.com/medicare-costs.html
+- Nevada Medigap birthday rule (AB 250 / NRS 687B.352): https://medicareenrollmentnevada.com/medigap-birthday-rule.html
+- Medicare Part D prescription coverage: https://medicareenrollmentnevada.com/part-d.html
+- Turning 65 in Nevada: https://medicareenrollmentnevada.com/turning-65.html
+- Nevada Medicaid and Medicare Savings Programs (QMB, SLMB, QI): https://medicareenrollmentnevada.com/medicaid.html
+- Chronic Special Needs Plans (C-SNP): https://medicareenrollmentnevada.com/chronic-snp.html
+- Institutional Special Needs Plans (I-SNP): https://medicareenrollmentnevada.com/institutional-snp.html
+
+## Nevada Medigap birthday rule
+- Nevada is one of a small number of states with a Medigap birthday rule, created by Assembly Bill 250 and codified at NRS 687B.352, effective January 1, 2022
+- The window opens on the first day of the policyholder's birth month and remains open for at least 60 days
+- Inside the window a current Medigap policyholder may switch to a policy with the same or lesser benefits with no medical underwriting
+- It is a switching right for existing Medigap policyholders; it does not apply to someone moving from Medicare Advantage to Medigap
+
 ## Policies
 - Privacy Policy: https://medicareenrollmentnevada.com/privacy.html
 - Terms of Use: https://medicareenrollmentnevada.com/terms.html
